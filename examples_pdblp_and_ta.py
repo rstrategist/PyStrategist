@@ -23,7 +23,7 @@ df.tail()
 #Calculate Simple Moving Average (SMA) of different periods
 df['SMA_50'] = talib.SMA(df['close'],timeperiod=50)
 df['SMA_100'] = talib.SMA(df['close'],timeperiod=100)
-df['SMA_200'] = talib,SMA(df['close'],timeperiod=200)
+df['SMA_200'] = talib.SMA(df['close'],timeperiod=200)
 df.tail()
 
 #Calculate MACD and MACD Signal
