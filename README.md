@@ -1,6 +1,7 @@
 # PyStrategist
 
 Welcome to my strategy musings 👋
+
 The repository contains my musings on sytematic strategies and market analysis.
 
 - 🔭 I’m currently learning about systematic strategies and data science, particularly machine learning applications to solve real world problems.
