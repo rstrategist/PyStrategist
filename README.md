@@ -10,7 +10,8 @@ The repository contains my musings on sytematic strategies and market analysis.
 - 📫 How to reach me: rashid.rasul@me.com
 - ⚡ Fun fact: I like to hike and kayak 🚣🏽‍♀
 
-The repository leverages on the following existing Python libraries:
+
+The repository leverages on many existing Python libraries including:
 
 pdblp = A great and simple interface to integrate pandas and the Bloomberg Open API
 https://github.com/MatthewGilbert/pdblp
@@ -20,4 +21,20 @@ https://github.com/bukosabino/ta
               
 backtesting = A great Pyton backtesting library. Still in the early stages of development but great scope to develop.
 https://kernc.github.io/backtesting.py/
+
+- numpy
+- pandas
+- datetime
+- matplotlib
+- statsmodels
+- scipy
+- sklearn - machine learning
+- pyspark - machine learning and distributed computing
+- keras - machine learning
+- nltk - natural language processing
+- edgar - EDGAR financial reporting
+- folium - geospatial mapping
+- yfinance
+- tws
+- talib
 
