@@ -1,0 +1,4 @@
+.ipynb_checkpoints/**
+.venv
+PyRust-data-analysis/target/*
+PyRust-data-analysis/.env/*
