@@ -2,3 +2,4 @@
 .venv
 PyRust-data-analysis/target/*
 PyRust-data-analysis/.env/*
+PyRust-data-analysis/ipynb_checkpoints/*
